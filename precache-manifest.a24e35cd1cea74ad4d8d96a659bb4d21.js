@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f005af2e7aba3e6963165b3fd23a25c0",
+    "revision": "ff4ba20cc173eb57e47f7c4744221b0c",
     "url": "/ppt-exercise/index.html"
   },
   {
-    "revision": "554e9fb24f01165a74b4",
+    "revision": "74ae147f34f115d5ed2a",
     "url": "/ppt-exercise/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ppt-exercise/static/js/2.a561fac1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "554e9fb24f01165a74b4",
-    "url": "/ppt-exercise/static/js/main.73e64c65.chunk.js"
+    "revision": "74ae147f34f115d5ed2a",
+    "url": "/ppt-exercise/static/js/main.694fb837.chunk.js"
   },
   {
     "revision": "462823573ecfb1a4637b",

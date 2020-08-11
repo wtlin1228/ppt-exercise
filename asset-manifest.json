@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ppt-exercise/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/ppt-exercise/static/js/main.73e64c65.chunk.js",
-    "main.js.map": "/ppt-exercise/static/js/main.73e64c65.chunk.js.map",
+    "main.js": "/ppt-exercise/static/js/main.694fb837.chunk.js",
+    "main.js.map": "/ppt-exercise/static/js/main.694fb837.chunk.js.map",
     "runtime-main.js": "/ppt-exercise/static/js/runtime-main.989931a7.js",
     "runtime-main.js.map": "/ppt-exercise/static/js/runtime-main.989931a7.js.map",
     "static/js/2.a561fac1.chunk.js": "/ppt-exercise/static/js/2.a561fac1.chunk.js",
     "static/js/2.a561fac1.chunk.js.map": "/ppt-exercise/static/js/2.a561fac1.chunk.js.map",
     "index.html": "/ppt-exercise/index.html",
-    "precache-manifest.73dd231a08a0072c1eb5b5a9a1dde461.js": "/ppt-exercise/precache-manifest.73dd231a08a0072c1eb5b5a9a1dde461.js",
+    "precache-manifest.a24e35cd1cea74ad4d8d96a659bb4d21.js": "/ppt-exercise/precache-manifest.a24e35cd1cea74ad4d8d96a659bb4d21.js",
     "service-worker.js": "/ppt-exercise/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/ppt-exercise/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.a561fac1.chunk.js.LICENSE.txt": "/ppt-exercise/static/js/2.a561fac1.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.989931a7.js",
     "static/js/2.a561fac1.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.73e64c65.chunk.js"
+    "static/js/main.694fb837.chunk.js"
   ]
 }
