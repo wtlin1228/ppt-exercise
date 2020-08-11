@@ -22,8 +22,15 @@ const Draggable = ({ children, relativeEl, onPositionSet }) => {
             move.preventDefault()
             return {
               left:
-                move.clientX - start.offsetX - relativeEl.current.offsetWidth,
-              top: move.clientY - start.offsetY - relativeEl.current.offsetTop,
+                move.clientX -
+                start.offsetX -
+                relativeEl.current.offsetWidth +
+                window.scrollX,
+              top:
+                move.clientY -
+                start.offsetY -
+                relativeEl.current.offsetTop +
+                window.scrollY,
             }
           }),
           takeUntil(mouseup$)
